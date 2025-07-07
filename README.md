@@ -9,27 +9,6 @@ A modern, responsive Twitter clone built with HTML, Tailwind CSS, and FontAwesom
 - FontAwesome icons
 - Clean, modern UI
 
-## 📸 Preview
-![Screenshot](https://user-images.githubusercontent.com/your-screenshot.png)
-
-## 🌐 Live Demo
-[View the live site here!](https://mohamed3h.github.io/twitter-clone/)
-
-## 🛠️ Getting Started
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/mohamed3h/twitter-clone.git
-   cd twitter-clone
-   ```
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-3. **Build Tailwind CSS:**
-   ```bash
-   npx tailwindcss -i ./input.css -o ./output.css --watch
-   ```
-4. **Open `index.html` in your browser.**
 
 ## 📁 Project Structure
 - `index.html` — Main HTML file
