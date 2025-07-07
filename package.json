@@ -1,0 +1,20 @@
+{
+  "name": "twiter-clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./input.css -o ./output.css --watch",
+    "build": "npx tailwindcss -i ./input.css -o ./output.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.30.1",
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "caniuse-lite": "^1.0.30001726"
+  }
+}
